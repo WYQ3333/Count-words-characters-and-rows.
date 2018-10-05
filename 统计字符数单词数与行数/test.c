@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<Windows.h>
 
-#define OUT 0
-#define IN 1
+#define OUT 0//不在单词中
+#define IN 1//在单词中
 
 int main()
 {
